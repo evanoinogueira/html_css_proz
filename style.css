@@ -1,0 +1,35 @@
+h1{
+    color:darksalmon;
+}
+
+div{
+    background-color: blue;
+    padding: 30px;
+    margin: 10px;
+    border: 8px solid black;
+    padding-left: 200px;
+    margin-top: 40px;
+}
+
+.caixa {
+    padding: 40px;
+    margin: 30px;
+}
+
+#ultima-caixa {
+    background-color: blueviolet;
+    padding-top: 80px;
+    margin-left: 80px;
+
+}
+
+.caixa-meio {
+    background-color: antiquewhite;
+}
+
+#paragrafo {
+    background-color: goldenrod;
+    border: 8px solid black;
+    padding: 80px;
+
+}
